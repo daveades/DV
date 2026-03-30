@@ -30,4 +30,4 @@ Then open `http://localhost:8000`.
 
 ## Data note
 
-Some values in your writeup were expressed as ranges or estimates. Midpoint values are used in the charts where needed.
+Some values in the writeup were expressed as ranges or estimates. Midpoint values are used in the charts where needed.
